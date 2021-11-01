@@ -8,7 +8,8 @@ function split4(){
      addQuarter(this)
      addQuarter(this)
 
-
+    ///rgb() function
+    //Math.random
 
 }    
 
@@ -26,7 +27,7 @@ function addQuarter(intoDiv){
     intoDiv.appendChild(q)
 
 
-    
+
 
 }
 
